@@ -1,0 +1,63 @@
+body {
+    height: 1024px;
+    width: 1024px;
+    margin: 0;
+    padding: 0;
+}
+
+/* ----------Header----------*/
+header {
+    background-color: #d8d8d8;
+    width: 100%;
+    height: 125px;
+    padding-top: 10px;
+}
+
+#square-blue {
+    background-color: #4a90e2;
+    height: 100px;
+    width: 100px;
+    float: left;
+    margin: 10px 20px 10px 20px;
+}
+
+
+/* ----------All divs----------*/
+div {
+    width: 100%;
+}
+
+/* ----------Div w/ Text----------*/
+.div-text {
+    height: 300px;
+    box-sizing: border-box;
+    padding: 70px 65px 20px 65px;
+}
+
+p {
+    margin: 0px;
+    text-align: left;
+    font-size: 27px;
+}
+
+/* ----------Colored divs----------*/
+.color-bars {
+    height: 150px;
+    box-sizing: border-box;
+}
+
+#bar-blue {
+    background-color: #4a90e2;
+}
+
+#bar-blue_green {
+    background-color: #50e3c2;
+}
+
+#bar-green {
+    background-color: #b8e986;
+}
+
+#bar-yellow {
+    background-color: #f8e71c;
+}
